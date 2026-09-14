@@ -124,7 +124,7 @@ on:
         options:
           - ophub
           - angel
-          - yourname
+          - cj
 
 env:
   TZ: Etc/UTC
